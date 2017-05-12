@@ -38,7 +38,7 @@
 	padding: 5px 10px;
 	color: #aabbee;
 	text-decoration: none;
-	border-right: 1px solid #fff;
+	border-right: 1px solid #ffffff;
 }
 
 #navigation li a:hover { background: #383; }
@@ -50,7 +50,7 @@
 	margin: 20px;
 	-webkit-border-radius: 18px;
 	border-radius: 18px;
-	-webkit-box-shadow: 2px 0px 6px #000000;
+	-webkit-box-shadow: 2px 0px 6px #ffff00;
 	box-shadow: 0px 0px 6px #ffffff;
 	background-image: -webkit-gradient(linear, left top, right top, from(#d6e1ff), to(#dbffe7));
 	background-image: -webkit-linear-gradient(left, #d6e1ff, #dbffe7);
