@@ -16,7 +16,7 @@
 {
 	float: left;
 	width: 100%;
-	background: #265487;
+	background: #555555;
 }
 
 #navigation ul
@@ -50,7 +50,7 @@
 	margin: 20px;
 	-webkit-border-radius: 18px;
 	border-radius: 18px;
-	-webkit-box-shadow: 2px 0px 6px #ffff00;
+	-webkit-box-shadow: 2px 0px 6px #ffffff;
 	box-shadow: 0px 0px 6px #ffffff;
 	background-image: -webkit-gradient(linear, left top, right top, from(#d6e1ff), to(#dbffe7));
 	background-image: -webkit-linear-gradient(left, #d6e1ff, #dbffe7);
